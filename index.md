@@ -10,5 +10,4 @@ twelve fixed forms. On your iPhone, iPad or Mac, with nothing sent anywhere.
 - [Privacy policy](privacy.md)
 - [Support](support.md)
 
-Questions: **callumpmaclellan@proton.me**
-
+Questions: **88_intake.troupes@icloud.com**

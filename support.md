@@ -11,14 +11,16 @@ sent anywhere.
 
 ## Getting help
 
-Email **callumpmaclellan@proton.me**. Say which device you are on and what you
-were doing, and include a screenshot if there is anything to see.
+Email **88_intake.troupes@icloud.com**. Say which device you are on and what
+you were doing, and include a screenshot if there is anything to see.
 
 ## Common questions
 
 **Where are my poems kept?**
-On your device, in the app's own storage. There is no account and no server —
-nothing is uploaded anywhere. See the [privacy policy](privacy.md).
+On your device, in the app's own storage — and, if you switch iCloud on, in
+your own iCloud account so your devices share one library. There is no
+Bàrdachd account and no Bàrdachd server, and nobody but you can see any of it.
+See the [privacy policy](privacy.md).
 
 **How do I save a poem?**
 There is no save button. Every change is written back automatically about
@@ -50,9 +52,12 @@ Yes — it runs on the Mac through Catalyst, using the same wide two-column
 layout as the iPad. It's the same app, not a separate one.
 
 **Will my poems be on all my devices?**
-Not in this version — storage is device-only for now, so a poem written on
-your phone stays on your phone. iCloud sync is planned but not switched on
-yet.
+Yes, if you switch on iCloud in Settings, on each device, signed in to the
+same Apple Account. A poem you're working on then keeps itself in step: start
+it on your phone and it's there on the Mac, keep writing on the iPad and the
+changes are on both. It syncs through your own iCloud account, not through
+any server of mine — see the [privacy policy](privacy.md). If you'd rather it
+didn't, leave the switch off and that device keeps its own poems to itself.
 
 **What dictionary does it use for pronunciation and rhymes?**
 The CMU Pronouncing Dictionary (Carnegie Mellon University), with word
@@ -61,6 +66,4 @@ app's About screen, which is where their licences require it.
 
 ## What Bàrdachd does not do
 
-No accounts, no subscription, no advertising, no analytics, and no connection
-to the internet of any kind.
-
+No accounts, no subscription, no advertising, no analytics.

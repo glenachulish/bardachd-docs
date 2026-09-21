@@ -6,7 +6,7 @@ permalink: /support
 # Bàrdachd — Support
 
 Bàrdachd is a writing app for poets: live scansion, a rhyme finder, and
-guidance for twelve fixed forms — on your iPhone, iPad or Mac, with nothing
+guidance for thirteen fixed forms — on your iPhone, iPad or Mac, with nothing
 sent anywhere.
 
 ## Getting help

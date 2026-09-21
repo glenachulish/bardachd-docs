@@ -44,7 +44,7 @@ rather than this one.
 ## Apart from iCloud, Bàrdachd does not use the internet
 
 The scansion engine, the rhyme finder, the pronunciation dictionary of 126,000
-words, and the twelve fixed forms with their guidance are all carried inside
+words, and the thirteen fixed forms with their guidance are all carried inside
 the app. None of that needs a network connection, and none of it makes one.
 
 There is one other exception, and it is barely one. The reference lists —

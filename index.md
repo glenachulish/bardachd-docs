@@ -4,10 +4,11 @@ title: Bàrdachd
 
 # Bàrdachd
 
-A writing app for poets — live scansion, a rhyme finder, and guidance for
-twelve fixed forms. On your iPhone, iPad or Mac, with nothing sent anywhere.
+A workshop for writing verse — live scansion, a rhyme finder, and the fixed
+forms with guidance beside the draft. On iPhone, iPad and Mac, and entirely
+offline.
 
 - [Privacy policy](privacy.md)
 - [Support](support.md)
 
-Questions: **88_intake.troupes@icloud.com**
+Questions: **callumpmaclellan@proton.me**

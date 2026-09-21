@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Privacy Policy — Bàrdachd
 
-*Last updated: 3 September 2026*
+*Last updated: 21 September 2026*
 
 Bàrdachd collects nothing.
 
@@ -21,26 +21,37 @@ app's own container on your device.
 There is no Bàrdachd account, no Bàrdachd server, and no sign-in. Nobody,
 including the developer, can see what you write.
 
-If you switch on iCloud sync in Settings, your poems are also kept in **your
-own iCloud account**, so the same poems are on your iPhone, your iPad and your
-Mac. It goes into your account's private database. Apple encrypts it, the
+## iCloud
+
+Your poems also go to **your own iCloud account**, so the same poems are on
+your iPhone, your iPad and your Mac. This happens automatically when you are
+signed in to iCloud on the device; there is nothing to switch on.
+
+They go into your account's *private* database. Apple encrypts it, the
 developer has no access to it and no way to ask for access, and no other user
-of Bàrdachd can reach it. The syncing is between your devices and your iCloud;
-nobody else is party to it. Switch it off and the copy on the device stays,
-and simply stops syncing.
+of Bàrdachd can reach it. The syncing is between your own devices and your own
+iCloud; nobody else is party to it.
 
-## Bàrdachd does not use the internet, unless you switch on iCloud sync
-
-The scansion engine, the rhyme finder, the pronunciation dictionary and the
-twelve fixed forms with their guidance are all bundled inside the app, so none
-of that needs a network connection. With iCloud sync off, which is how the app
-starts, nothing you write and nothing you do in the app ever makes a network
-request, to anywhere, at any time.
+If you are not signed in to iCloud, or you turn iCloud Drive off for Bàrdachd
+in your device's Settings, the app keeps working and everything stays on that
+device.
 
 If you have iCloud Backup switched on, your device may also include the app's
 data in your own encrypted backup. Both that and the sync above are Apple's
-services under your own Apple Account, covered by Apple's privacy policy rather
-than this one.
+services under your own Apple Account, covered by Apple's privacy policy
+rather than this one.
+
+## Apart from iCloud, Bàrdachd does not use the internet
+
+The scansion engine, the rhyme finder, the pronunciation dictionary of 126,000
+words, and the twelve fixed forms with their guidance are all carried inside
+the app. None of that needs a network connection, and none of it makes one.
+
+There is one other exception, and it is barely one. The reference lists —
+further reading, websites, listening — hold links, and tapping **Open** hands
+that address to your browser in the ordinary way. At that point you have left
+Bàrdachd and you are on a website, and what that site collects is theirs to
+describe. Nothing about you or about the app is added to the request.
 
 ## What the app does not do
 
@@ -49,11 +60,13 @@ than this one.
 - No tracking, and no sharing of anything with any other company.
 - No accounts, no email address, no name, no location.
 - No third-party SDKs.
+- No microphone, no camera, no access to your photos.
 
 ## Files you share out
 
 Exporting a poem as plain text or PDF uses the standard iOS share sheet, so
-the file goes wherever you choose to send it and nowhere else.
+the file goes wherever you choose to send it and nowhere else. The app does not
+send it anywhere itself, and has no idea where it went.
 
 ## Children
 
@@ -63,7 +76,8 @@ anyone else, and no purchases. It collects nothing from anyone of any age.
 ## Changes
 
 If this ever stops being true, the policy will be updated before the change
-ships, and the date at the top will say when.
+ships, and the date at the top will say when. A policy that describes some
+other version of the app is a false statement about this one.
 
 ## Contact
 

@@ -79,11 +79,18 @@ The sidebar keeps the six you touched most recently. **All poems** below them
 has the lot, with search, sorting and grouping by date.
 
 **How do I get a poem out of the app?**
-**⋯** → Share as text, or Share as PDF. Both go through the normal share sheet,
-so they can go anywhere you can send a file.
+**⋯** → Share as text, or Share as PDF, to send it through the normal share
+sheet — anywhere you can send a file. Or **⋯** → Save as PDF… to put a copy in
+a folder of your choosing.
+
+**Do I have to buy it again for my Mac or iPad?**
+No. One purchase covers iPhone, iPad and Mac. Buy it on any of them and it is
+yours on the others too — download it from the App Store on each device while
+signed in with the same Apple Account. There is no subscription and nothing
+further to pay.
 
 **Can I use it on my Mac as well as my phone?**
-Yes — it runs on the Mac through Catalyst, using the same wide two-column
+Yes, with the same purchase. On the Mac it uses the same wide two-column
 layout as the iPad. It's the same app, not a separate one.
 
 **Will my poems be on all my devices?**

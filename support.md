@@ -84,6 +84,13 @@ has the lot, with search, sorting and grouping by date.
 sheet — anywhere you can send a file. Or **⋯** → Save as PDF… to put a copy in
 a folder of your choosing.
 
+**How do I learn a poem by heart?**
+Craft → **Learn by heart**. Choose one of your poems or one of the examples,
+or tap **Add a poem to learn** and paste one in. The words are hidden; tap
+anywhere, or **Next line**, to bring them back one line at a time. **Hint**
+shows the first letter of each word of the next line; **Back** hides the last
+one again. You can also start from ⋯ → Learn by heart on any poem.
+
 **Do I have to buy it again for my Mac or iPad?**
 No. One purchase covers iPhone, iPad and Mac. Buy it on any of them and it is
 yours on the others too — download it from the App Store on each device while

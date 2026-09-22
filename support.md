@@ -59,8 +59,9 @@ the app's.
 
 **How do I find rhymes?**
 The rhyme finder opens on the last word of the line you're writing, and lists
-perfect and near rhymes ranked by how common each word is, so obscure surnames
-and initialisms don't crowd out the useful ones. Some words have no rhyme at
+perfect and near rhymes ranked by how common each word is. It keeps to
+ordinary words: names, places and brands are left out unless you switch on
+**Include names and brands** at the bottom of the list. Some words have no rhyme at
 all — *orange*, *month*, *silver*. Look at the near rhymes, or move the word off
 the end of the line.
 
